@@ -12,11 +12,11 @@ function sectOne() {
       <div className="bottomDiv">
         <div className="FlexButton">
           {/* <button className='ButtonConfig'>Configuration Personnalisé</button> */}
-          <a class="button" className="ButtonConfig">
+          <a className="button" className="ButtonConfig">
             CONFIGURATION PERSONALISÉE
           </a>
 
-          <a class="button" className="ButtonCarAvailable">
+          <a className="button" className="ButtonCarAvailable">
             VÉHICULES DISPONIBLES
           </a>
         </div>
